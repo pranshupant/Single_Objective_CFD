@@ -1,6 +1,8 @@
 # Single_Objective_CFD
 
+Optimisation framework for airfoils using Invasive Weed Optimisation - Single Objective (Cl/Cd). 
 
+Runs in high precision mode by using CFD - OpenFOAM v6.
 
 This code accompanies the following research papers:
 
